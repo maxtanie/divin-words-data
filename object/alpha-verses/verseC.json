@@ -1,0 +1,22 @@
+{
+  "verseC": [
+    {
+      "name": "Celui qui siège dans le ciel rit, le Seigneur se moque d'eux.",
+      "verse": "Psaumes 2 : 4",
+      "letter": "C",
+      "bgVerses": "img/C/bg-help-pour-man.png",
+      "colorMain": "#1229C1",
+      "verseSound": "/audio/C/psaumes2-4.mp3",
+      "id": 161924
+    },
+    {
+      "name": "Celui qui a pitié du pauvre prête à l'Eternel, Qui lui rendra selon son oeuvre.",
+      "verse": "Proverbes 19 : 17",
+      "letter": "C",
+      "bgVerses": "img/C/bg-help-pour-man.png",
+      "colorMain": "#1229C1",
+      "verseSound": "/audio/C/proverbes19-17.mp3",
+      "id": 16181917
+    }
+  ]
+}
